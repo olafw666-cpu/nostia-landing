@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nostia-landing/static/css/main.08f2ecd5.css",
-    "main.js": "/nostia-landing/static/js/main.88f3dfc4.js",
-    "static/js/453.07324b4d.chunk.js": "/nostia-landing/static/js/453.07324b4d.chunk.js",
-    "index.html": "/nostia-landing/index.html",
-    "main.08f2ecd5.css.map": "/nostia-landing/static/css/main.08f2ecd5.css.map",
-    "main.88f3dfc4.js.map": "/nostia-landing/static/js/main.88f3dfc4.js.map",
-    "453.07324b4d.chunk.js.map": "/nostia-landing/static/js/453.07324b4d.chunk.js.map"
+    "main.css": "/static/css/main.08f2ecd5.css",
+    "main.js": "/static/js/main.945f5617.js",
+    "static/js/453.07324b4d.chunk.js": "/static/js/453.07324b4d.chunk.js",
+    "index.html": "/index.html",
+    "main.08f2ecd5.css.map": "/static/css/main.08f2ecd5.css.map",
+    "main.945f5617.js.map": "/static/js/main.945f5617.js.map",
+    "453.07324b4d.chunk.js.map": "/static/js/453.07324b4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08f2ecd5.css",
-    "static/js/main.88f3dfc4.js"
+    "static/js/main.945f5617.js"
   ]
 }
